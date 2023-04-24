@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav1 {
+
+    color: rgb(25, 16, 16);
+    text-align: center;
+}
+.c2{
+ text-align: center;
+
+}
+.c3{
+    text-align: left;
+}
+.n1{
+    padding: 40px 40px 40px 40px;
+}
